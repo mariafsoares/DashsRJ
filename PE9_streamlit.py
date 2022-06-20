@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 
-DATA_URL = ("C:/Users/mariso15/Documents/PE9_streamlit_data.xlsx")
+DATA_URL = ("./PE9_streamlit_data.xlsx")
 
 st.set_page_config(page_title="VOAs PE9",
                    layout="centered",
